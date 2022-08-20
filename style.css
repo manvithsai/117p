@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    }
+    #score{
+        font-size: 20;
+        margin-left: 10px;
+    }
+    #timer{
+    font-size: 20;
+    margin-right:10px;
+    float: right;
+}
+    
+    #sketch_to_be_drawn{
+    color: aquamarine;
+    }
